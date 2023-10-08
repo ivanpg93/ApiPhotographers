@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prueba Tecnica</string>
+    <string name="txtCabecera">INCADAQUÉS 2020</string>
+    <string name="txtScan">Scan</string>
+    <string name="txtDate">15 - 25 OCTOBER 2020</string>
+    <string name="icProgram">Program</string>
+    <string name="icArtworks">Artworks</string>
+    <string name="icMap">Map</string>
+    <string name="txtFestivals">Festivals</string>
+    <string name="txtNews">News</string>
+    <string name="txtFavs">Favs</string>
+</resources>

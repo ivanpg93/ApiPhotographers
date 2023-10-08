@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuScan"
+        android:icon="@drawable/ic_camera"
+        android:title="@string/txtScan" />
+
+    <item
+        android:id="@+id/menuFestivals"
+        android:icon="@drawable/ic_eye"
+        android:title="@string/txtFestivals" />
+
+    <item
+        android:id="@+id/menuNews"
+        android:icon="@drawable/ic_megaphone"
+        android:title="@string/txtNews" />
+
+    <item
+        android:id="@+id/menuFavs"
+        android:icon="@drawable/ic_heart"
+        android:title="@string/txtFavs" />
+
+</menu>
